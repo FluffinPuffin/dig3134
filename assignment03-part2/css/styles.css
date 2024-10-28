@@ -1,0 +1,20 @@
+.box {
+    /*max-width: fit-content;*/
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #433D8B;
+    color: #C8ACD6;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+body {
+    background-color: #17153B;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link {
+    color: #C8ACD6;
+}
