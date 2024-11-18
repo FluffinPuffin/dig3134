@@ -2,7 +2,7 @@
 session_start();
 
 
-$mysqli = new mysqli("127.0.0.1", "69A3eVRfEJ", "Eisw5mbPG7", "db69A3eVRfEJ", 3306);
+
 
 	$query = "SELECT username, password, access_level, user_id, first_name, last_name FROM a5_users";
 	$result = $mysqli->query($query);
