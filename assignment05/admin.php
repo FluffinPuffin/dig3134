@@ -5,7 +5,7 @@ if (!isset($_SESSION['logged_in'])) {
     print "You must login to view this page.  Click <a href=\"login.php\"> here </a> to login";
 } else {
 
-$mysqli = new mysqli("127.0.0.1", "69A3eVRfEJ", "Eisw5mbPG7", "db69A3eVRfEJ", 3306);
+
     $message = "";
     if ($mysqli->connect_errno) {
         echo "Failed to connect to mysqli: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
