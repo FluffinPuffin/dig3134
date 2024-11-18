@@ -9,7 +9,7 @@ if (isset($_POST['no'])){
     header("Location: admin.php");
 }
 
-$mysqli = new mysqli("127.0.0.1", "69A3eVRfEJ", "Eisw5mbPG7", "db69A3eVRfEJ", 3306);
+
         // Database connection
         if ($mysqli->connect_errno) {
             echo "Failed to connect to mysqli: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
