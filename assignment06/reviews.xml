@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="0.91">
+    <channel>
+        <title> Game Reviews </title>
+        <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/reviews.php </link>
+        <description> A place where I review games </description>
+        <language> en-us </language>
+
+        <item>
+            <title> Counter Strike Global Offensive Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=2  </link>
+            <description> Terrible game. Got called mean names. </description>
+        </item>
+
+        <item>
+            <title> Genshin Impact Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=3 </link>
+            <description> Horrible game. Spent all of my savings </description>
+        </item>
+
+        <item>
+            <title> Helldivers Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=4 </link>
+            <description> Good game, I played with my comrades </description>
+        </item>
+
+        <item>
+            <title> Honkai Star Rail Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=5</link>
+            <description> Very good turn based game. </description>
+        </item>
+
+        <item>
+            <title> Monster Hunter World Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=6 </link>
+            <description> I hunted bug monsters </description>
+        </item>
+
+        <item>
+            <title> VALORANT Review </title>
+            <link> https://students.gaim.ucf.edu/~ch011941/dig3134/assignment06/review.php?review_id=1 </link>
+            <description> Terrible game, don&#039;t play alone </description>
+        </item>
+    </channel>
+</rss>
+
+
+
+
